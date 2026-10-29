@@ -39,13 +39,4 @@ Nếu chưa chuyển ngay, nhóm vẫn nên ghim thông báo trên Zalo và dùn
 
 Trong tình huống của đề bài, em chọn chuyển dần sang Lark. Lợi ích chính là tách nội dung theo mục đích, tìm lại thông tin và theo dõi người phụ trách từng việc. Tuy nhiên, công cụ chỉ phát huy hiệu quả khi cả nhóm thống nhất cách đăng thông báo, thảo luận và cập nhật công việc.
 
-## Tài liệu tham khảo
-
-- [Zalo Help - Ghim những tin nhắn quan trọng](https://help.zalo.me/huong-dan/chuyen-muc/nhan-tin-va-goi/nhan-tin/huong-dan-ghim-nhung-tin-nhan-quan-trong/)
-- [Zalo Help - Các tiện ích cơ bản khi nhắn tin trên Zalo máy tính](https://help.zalo.me/huong-dan/chuyen-muc/nhan-tin-va-goi/nhan-tin/cac-tien-ich-co-ban-khi-nhan-tin-tren-zalo-may-tinh/)
-- [Zalo Help - Nhắc hẹn trong nhóm](https://help.zalo.me/huong-dan/chuyen-muc/tro-chuyen-nhom/huong-dan-tao-lich-hen-tren-zalo/)
-- [Slack Help - How to use Slack](https://slack.com/help/articles/360059928654-How-to-use-Slack--your-quick-start-guide/)
-- [Slack Help - Search in Slack](https://slack.com/help/articles/202528808-Search-in-Slack.)
-- [Lark Help - Get started with Messenger](https://www.larksuite.com/hc/en-US/articles/191742533872-get-started-with-messenger)
-- [Lark Help - Find exactly what you need with Lark's powerful search function](https://www.larksuite.com/hc/en-US/articles/360045602774-find-exactly-what-you-need-with-lark-s-powerful-search-function)
 
